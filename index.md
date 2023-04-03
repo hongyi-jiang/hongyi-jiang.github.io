@@ -11,7 +11,7 @@ I earned my Ph.D. in Applied Mathematics and Statistics from Johns Hopkins Unive
 
 ## Research Interests
 
-My research interests are diverse and interdisciplinary, encompassing probability, statistics, mixed-integer programming, and their applications in developing algorithms that offer both theoretical guarantees and practical efficiency. I am dedicated to addressing the large-scale challenges faced by urban environments and driven by the demand for intellectual, sustainable, and equitable urban systems.
+My research interests are diverse and interdisciplinary, encompassing probability, statistics, mixed-integer programming, and their applications in devising algorithms that offer both theoretical guarantees and practical efficiency. I am dedicated to addressing the large-scale challenges faced by urban environments and driven by the demand for intellectual, sustainable, and equitable urban systems.
 
 For a list of my publications, please visit my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=Ms8IYg0AAAAJ).
 
