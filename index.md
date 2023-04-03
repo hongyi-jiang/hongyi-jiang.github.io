@@ -3,7 +3,7 @@ layout: page
 title: Welcome to My Personal Webpage
 ---
 
-![Profile Picture](/citations-modified.png)
+![Profile Picture](/mmexport1680492614736-modified.png)
 
 # About Me
 
