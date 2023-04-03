@@ -3,9 +3,9 @@ layout: page
 title: Welcome to My Personal Webpage
 ---
 
-# About Me
-
 ![Profile Picture](/citations.jfif)
+
+# About Me
 
 Hello! I am a postdoctoral researcher in the School of Civil and Environmental Engineering at Cornell University. I am grateful for the opportunity to work under the guidance of [Professor Samitha Samaranayake](https://cee.cornell.edu/samitha/).
 
