@@ -9,19 +9,19 @@ date_format: "%B %d, %Y"
 # Layout
 
 show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
+show_frame: false           # adds a gray frame to the site
+show_sidebar: true      # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
-  - {file: "README.md"}
+#  - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:hj348 at cornell.edu"}
-  - {title: Github, icon: github, url: "https://hongyijiang789.github.io"}
+#  - {title: Github, icon: github, url: "https://hongyijiang789.github.io"}
 #  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
