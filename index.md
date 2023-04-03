@@ -3,7 +3,7 @@ layout: page
 title: Welcome to My Personal Webpage
 ---
 
-![Profile Picture](/citations.jfif)
+![Profile Picture](/citations-modified.png)
 
 # About Me
 
