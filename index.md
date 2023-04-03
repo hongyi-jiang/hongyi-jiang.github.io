@@ -3,8 +3,8 @@ layout: page
 title: Welcome to My Personal Webpage
 ---
 
-![Profile Picture](/mmexport1680492614736-modified.png)
-<img src="/mmexport1680492614736-modified.png" alt="Profile Picture" style="width: 50%; height: 50%;">
+<![Profile Picture](/mmexport1680492614736-modified.png)>
+<img src="/mmexport1680492614736-modified.png" alt="Profile Picture" style="width: 50%">
 
 
 # About Me
