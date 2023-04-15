@@ -20,4 +20,4 @@ My research interests are diverse and interdisciplinary, encompassing probabilit
 
 For a list of my publications, please visit my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=Ms8IYg0AAAAJ).
 
-Thank you for visiting my personal webpage. If you have any questions or would like to get in touch, please feel free to contact me at hj348 at cornell.edu.
+Thank you for visiting my personal webpage. If you have any questions or would like to get in touch, please feel free to contact me at hj348 at cornell dot edu.
