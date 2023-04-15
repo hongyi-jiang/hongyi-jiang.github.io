@@ -3,7 +3,7 @@ layout: page
 title: Welcome to My Personal Webpage
 ---
 
-<img src="/mmexport1680492614736-modified.png" alt="Profile Picture" style="width: 15%;">
+<img src="/Image_20230415003400.jpg" alt="Profile Picture" style="width: 15%;">
 
 
 # About Me
