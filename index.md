@@ -3,7 +3,7 @@ layout: page
 title: Welcome to My Personal Webpage
 ---
 
-<img src="/circle-icon.jpg" alt="Profile Picture" style="width: 18%;">
+<img src="/circle-icon-modified.png" alt="Profile Picture" style="width: 18%;">
 
 
 # About Me
