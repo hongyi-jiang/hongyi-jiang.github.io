@@ -8,13 +8,13 @@ title: Welcome to My Personal Webpage
 
 # About Me
 
-Hello! I am a postdoctoral researcher in the School of Civil and Environmental Engineering at Cornell University. I am grateful for the opportunity to work under the guidance of [Professor Samitha Samaranayake](https://cee.cornell.edu/samitha/).
+Hello! I am a postdoctoral researcher at Cornell University. I am grateful for the opportunity to work under the guidance of [Professor Samitha Samaranayake](https://cee.cornell.edu/samitha/).
 
 I earned my Ph.D. in Applied Mathematics and Statistics from Johns Hopkins University, a master's degree from Wake Forest University, and a bachelor's degree from Sichuan University. Throughout my academic journey, I have acquired extensive knowledge in applied probability, statistics, and mixed-integer optimization. I have been very fortunate to be advised by [Professor Amitabh Basu](https://www.ams.jhu.edu/~abasu9/) at Johns Hopkins University and [Professor Kenneth S. Berenhaut](https://berenhaut.sites.wfu.edu/) at Wake Forest University.
 
 ## Research Interests
 
-My research interests are diverse and interdisciplinary, encompassing probability, statistics, mixed-integer programming, and their applications in the development of algorithms that are theoretically robust and practically efficient. These algorithms aim to address the large-scale challenges faced by urban environments, guided by the pursuit of intelligent, sustainable, and equitable urban systems.
+My research interests are diverse and interdisciplinary, encompassing probability, statistics, mixed-integer programming, and their applications in the development of algorithms that are theoretically robust and practically efficient. These algorithms aim to address the real-world challenges.
 
 
 
